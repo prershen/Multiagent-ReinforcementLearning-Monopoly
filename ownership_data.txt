@@ -1,0 +1,165 @@
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 0), ('States Avenue', 0), ('Virginia Avenue', 1), ('St. James Place', 1), ('Tennessee Avenue', 2), ('New York Avenue', 0), ('Kentucky Avenue', 1)]
+1
+2
+skip
+[6, 0]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 1), ('Oriental Avenue', 0), ('Vermont Avenue', 2), ('Connecticut Avenue', 0), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+1
+1
+buy
+[7, 0]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 0), ('Oriental Avenue', 0), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 0), ('Tennessee Avenue', 0), ('New York Avenue', 1), ('Kentucky Avenue', 0)]
+1
+5
+buy
+[4, 0]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 0), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 1), ('Kentucky Avenue', 2)]
+1
+5
+buy
+[3, 0]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 1), ('Oriental Avenue', 1), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 1), ('St. James Place', 1), ('Tennessee Avenue', 1), ('New York Avenue', 1), ('Kentucky Avenue', 1)]
+1
+2
+give
+[11, 0]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 1), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+5
+skip
+[11, 10]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 1), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 1), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 1), ('Kentucky Avenue', 0)]
+1
+1
+give
+[10, 10]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 0), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 1)]
+1
+3
+buy
+[11, 10]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 1), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+1
+3
+skip
+[1, 10]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 1)]
+1
+3
+buy
+[6, 10]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 0), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 0), ('Tennessee Avenue', 1), ('New York Avenue', 0), ('Kentucky Avenue', 2)]
+2
+1
+give
+[6, 4]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+1
+5
+buy
+[0, 4]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 0), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 0), ('Virginia Avenue', 1), ('St. James Place', 1), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+2
+3
+buy
+[0, 8]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 1), ('States Avenue', 0), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+1
+buy
+[0, 11]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+1
+4
+give
+[5, 11]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 1), ('Oriental Avenue', 0), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 1), ('Virginia Avenue', 2), ('St. James Place', 1), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+1
+3
+give
+[8, 11]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 1), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+2
+skip
+[8, 1]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 0), ('Oriental Avenue', 0), ('Vermont Avenue', 2), ('Connecticut Avenue', 0), ('St. Charles Place', 1), ('States Avenue', 0), ('Virginia Avenue', 2), ('St. James Place', 1), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+1
+skip
+[8, 1]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 1), ('New York Avenue', 1), ('Kentucky Avenue', 2)]
+2
+4
+give
+[8, 11]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 1), ('St. James Place', 2), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+1
+buy
+[8, 4]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 1), ('St. Charles Place', 0), ('States Avenue', 2), ('Virginia Avenue', 1), ('St. James Place', 0), ('Tennessee Avenue', 0), ('New York Avenue', 1), ('Kentucky Avenue', 1)]
+1
+4
+give
+[11, 4]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 0), ('Oriental Avenue', 0), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 0), ('States Avenue', 0), ('Virginia Avenue', 0), ('St. James Place', 1), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+2
+5
+give
+[11, 5]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 2), ('States Avenue', 2), ('Virginia Avenue', 1), ('St. James Place', 0), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 1)]
+2
+4
+give
+[11, 5]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 1), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 1), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+3
+skip
+[11, 9]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 1), ('Connecticut Avenue', 0), ('St. Charles Place', 2), ('States Avenue', 0), ('Virginia Avenue', 0), ('St. James Place', 0), ('Tennessee Avenue', 2), ('New York Avenue', 0), ('Kentucky Avenue', 0)]
+1
+1
+buy
+[1, 9]
+[('Mediterranean Avenue', 1), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 0), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 1), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+1
+4
+buy
+[2, 9]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 1), ('Oriental Avenue', 1), ('Vermont Avenue', 1), ('Connecticut Avenue', 0), ('St. Charles Place', 2), ('States Avenue', 1), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 0), ('New York Avenue', 2), ('Kentucky Avenue', 1)]
+1
+3
+buy
+[6, 9]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 0), ('Virginia Avenue', 1), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 0), ('Kentucky Avenue', 1)]
+1
+5
+buy
+[2, 9]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 1), ('Vermont Avenue', 1), ('Connecticut Avenue', 2), ('St. Charles Place', 2), ('States Avenue', 1), ('Virginia Avenue', 1), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 0)]
+1
+4
+buy
+[10, 9]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 0), ('Oriental Avenue', 0), ('Vermont Avenue', 0), ('Connecticut Avenue', 2), ('St. Charles Place', 0), ('States Avenue', 0), ('Virginia Avenue', 0), ('St. James Place', 0), ('Tennessee Avenue', 0), ('New York Avenue', 0), ('Kentucky Avenue', 0)]
+2
+2
+give
+[10, 2]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 2), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 2), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 2), ('Tennessee Avenue', 2), ('New York Avenue', 2), ('Kentucky Avenue', 2)]
+2
+1
+buy
+[10, 2]
+[('Mediterranean Avenue', 2), ('Baltic Avenue', 0), ('Oriental Avenue', 2), ('Vermont Avenue', 2), ('Connecticut Avenue', 1), ('St. Charles Place', 1), ('States Avenue', 2), ('Virginia Avenue', 2), ('St. James Place', 0), ('Tennessee Avenue', 0), ('New York Avenue', 1), ('Kentucky Avenue', 2)]
+1
+2
+skip
+[1, 2]
+[('Mediterranean Avenue', 0), ('Baltic Avenue', 0), ('Oriental Avenue', 2), ('Vermont Avenue', 0), ('Connecticut Avenue', 1), ('St. Charles Place', 0), ('States Avenue', 0), ('Virginia Avenue', 2), ('St. James Place', 0), ('Tennessee Avenue', 0), ('New York Avenue', 0), ('Kentucky Avenue', 0)]
+2
+4
+skip
+[1, 8]
